@@ -1,1 +1,1 @@
-# Resume-Parser
+This tool that extracts relevant information from resumes and CVs, breaking down content into individual sections. It extracts data, standardizes it, and matches resumes with job descriptions using NLP and machine learning algorithms. This automates the screening process, saving time and improving accuracy.# Resume-Parser
